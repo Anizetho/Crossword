@@ -1,4 +1,6 @@
-
+# Devoir.py
+# author: Thomas Anizet
+# version: March 12, 2016 
 
 import re
 
